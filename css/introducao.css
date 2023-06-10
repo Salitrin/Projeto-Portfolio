@@ -17,7 +17,7 @@
 
 .introducao h1::before {
   content: "";
-  background: url(/img/detalhe.svg);
+  background: url(Projeto-Portfolio/img/detalhe.svg);
   display: block;
   width: 127px;
   height: 130px;
